@@ -1,0 +1,3 @@
+﻿  10pract.cpp
+C:\Users\earbu\source\repos\10pract\10pract\10pract.cpp(11,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  10pract.vcxproj -> C:\Users\earbu\source\repos\10pract\x64\Debug\10pract.exe
